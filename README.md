@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 ## 🎮 **About Rachel** 
 <div align="center">
@@ -44,7 +43,7 @@
 
 
 
----
+
 
 ## 🔥 **Tech Stack Arsenal** 
 <div align="center">
@@ -63,7 +62,7 @@
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 </div>
 
----
+
 
 
 ## 🎨 **Areas of Expertise** 
@@ -90,20 +89,24 @@
 </div>
 
 
----
+
 
 ## 📊 **GitHub Analytics** 
 <div align="center">
 
-<!-- GitHub Stats with Custom Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rachel1771&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF9500" alt="GitHub Stats" width="400"/>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel1771&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rachel1771&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF9500&hide_border=true" alt="GitHub Stats" width="420" height="200"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel1771&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&hide_border=true" alt="Top Languages" width="420" height="200"/>
 
 </div>
 
----
+</div>
+
+
+
+
 
 ## 🏆 **Achievements & Trophies** 
 <div align="center">
@@ -112,7 +115,7 @@
 
 </div>
 
----
+
 
 
 ## 🌈 **Random Developer Quote** 
@@ -122,7 +125,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
